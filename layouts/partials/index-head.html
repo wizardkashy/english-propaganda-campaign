@@ -1,0 +1,61 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <link rel="icon" href="/images/site-elements/seventownfavicon.png">
+    <meta charset="utf-8">
+
+    <title>seventown</title>
+    <meta name="description" content="bridge main lol">
+    <meta name="author" content="seventown">
+
+    <link rel="stylesheet" href="/stylesheet.css">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <meta name="theme-color" content="#160030"/>
+
+    <style>
+      main img {
+        width: 80%;
+      }
+      img.float {
+       float: right;
+       width: 40%;
+        margin: 20px;
+      }
+      #header-no-nav {
+        height: 100vh;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      #header-no-nav img {
+        height: auto;
+        width: 60%
+      }
+      @media only screen and (max-device-width: 600px) {
+        #header-no-nav {
+          height: 50vh;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <nav id="navbar">
+        <!-- <img src="images/site-elements/seventownfavicon.png" alt="home logo"> -->
+        <ul class="navlinks">
+          <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+          <li><a href="{{ "articles/" | absURL }}">Posts</a></li>
+          <li><a href="{{ "gallerys/" | absURL }}">Galleries</a></li>
+        </ul>
+        <div class="hamburger">
+          <div class="line"></div>
+          <div class="line"></div>
+          <div class="line"></div>
+        </div>
+      </nav>
+      <div id="header-no-nav">
+        <img src="/images/site-elements/seventownlogo-nobg.png" alt="header logo" id="hlogo">
+      </div>
+    </header>

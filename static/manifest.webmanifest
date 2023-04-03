@@ -1,0 +1,17 @@
+{
+    "short_name": "seventown",
+    "name": "seventown",
+    "description": "sev's website",
+    "icons": [
+      {
+        "src": "/images/site-elements/seventownfavicon.png",
+        "type": "image/png",
+        "sizes": "480x480"
+      }
+    ],
+    "start_url": "/site-template.html",
+    "background_color": "blue",
+    "display": "browser",
+    "scope": "/",
+    "theme_color": "blue"
+  }

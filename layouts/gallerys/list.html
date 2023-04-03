@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+
+<main>
+<section>
+    <h1>My Galleries</h1>
+
+    <article>
+    <ul id="list-of-articles">
+        {{ range where .Pages.ByPublishDate.Reverse "Section" "gallerys" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }} - <time datetime="{{.Date}}">{{ .Date.Format "2006/01/02 15:04:05" }}</time></a></li>
+        {{ end }}
+    </ul>
+    </article>
+</section>
+</main>
+
+{{ partial "foot.html" .}}

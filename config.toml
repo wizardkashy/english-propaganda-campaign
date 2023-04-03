@@ -1,0 +1,4 @@
+baseURL = "https://seventown.xyz/"
+languageCode = "en-us"
+title = "seventown"
+disableKinds = ["taxonomy", "taxonomyTerm"]

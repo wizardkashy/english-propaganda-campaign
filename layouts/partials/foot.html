@@ -1,0 +1,54 @@
+
+<footer id="true-footer">
+    <div id="left-column">
+      <!--youtube, discord, social (with clickable images), -->
+      <h3 class="footer-heading">SHOW YOUR SUPPORT</h3>
+      <ul id="social-list">
+        <li id="instagram"><a href="https://www.instagram.com/ministryof_pp/">Instagram</a></li>
+      </ul>
+    </div>
+    <div id="middle-column">
+      <h3 class="footer-heading">HAVE A QUESTION?</h3>
+      <form action="#">
+        <input type="textarea" name="question">
+      </form>
+    </div>
+    <div id="right-column">
+      <!--questions and stuff-->
+      <p>Ministry of Procrastinating People (MiniPP)</p>
+    </div>
+  </footer>
+
+  <!--JAVASCRIPT FOR NAV SCROLL-->
+  <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+      var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+      document.getElementById("navbar").style.top = "0";
+      } 
+    else {
+      document.getElementById("navbar").style.top = "-8vh";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+  </script>
+  <!--JAVASCRIPT FOR PHONE NAVBAR-->
+  <script>
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.navlinks');
+    const links = document.querySelectorAll('.navlinks li');
+    hamburger.addEventListener('click', () => {
+      navLinks.classList.toggle("open");
+    })
+  </script>
+
+  <script>
+    var status = null;
+    var wins = null;
+    var winstreak = null;
+    
+
+  </script>
+</body>
+</html>

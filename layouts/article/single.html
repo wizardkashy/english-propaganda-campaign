@@ -1,0 +1,20 @@
+{{ partial "head.html" . }}
+
+<main>
+<section>
+    <h1>{{.Title}}</h1>
+
+    <article>
+    {{.Content}}
+    </article>
+
+    <footer>
+            <ul id="bottom-previous-next-article">
+                {{ with .PrevInSection }}<li><a href="{{ .Permalink }}">&laquo; {{ .Title }}</a></li>{{ end }}
+                {{ with .NextInSection }}<li><a href="{{ .Permalink }}">{{ .Title }} &raquo;</a></li>{{ end }}
+            </ul>
+        </footer>
+</section>
+</main>
+
+{{ partial "foot.html" .}}
