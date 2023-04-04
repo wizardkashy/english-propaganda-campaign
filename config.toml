@@ -1,4 +1,4 @@
-baseURL = "https://seventown.xyz/"
+baseURL = "https://sparkling-torrone-90ec42.netlify.app/"
 languageCode = "en-us"
 title = "seventown"
 disableKinds = ["taxonomy", "taxonomyTerm"]

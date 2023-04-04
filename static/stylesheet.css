@@ -211,18 +211,18 @@ iframe {
 }
 
 
-main a {color: rgb(50, 0, 107);}
-main a:hover {color: rgb(112, 62, 168);}
-main a:active {color: rgb(18, 0, 39);}
-main a:visited {color: rgb(50, 0, 107);}
+main a {color: rgb(107, 0, 0);}
+main a:hover {color: rgb(168, 62, 62);}
+main a:active {color: rgb(39, 0, 0);}
+main a:visited {color: rgb(107, 0, 0);}
 nav>ul>li>a {color: rgb(255, 255, 255); text-decoration: none;}
-nav>ul>li>a:hover {color: rgb(159, 124, 216); text-decoration: none;}
-nav>ul>li>a:active {color: rgb(198, 177, 221); text-decoration: none;}
+nav>ul>li>a:hover {color: rgb(216, 124, 124); text-decoration: none;}
+nav>ul>li>a:active {color: rgb(221, 177, 177); text-decoration: none;}
 nav>ul>li>a:visited {color: rgb(255, 255, 255); text-decoration: none;}
-#true-footer a {color: rgb(235, 225, 247); text-decoration: none;}
-#true-footer a:hover {color: rgb(188, 174, 204); text-decoration: none;}
+#true-footer a {color: rgb(247, 225, 225); text-decoration: none;}
+#true-footer a:hover {color: rgb(204, 174, 174); text-decoration: none;}
 #true-footer a:active {color: rgb(255, 255, 255); text-decoration: none;}
-#true-footer a:visited {color: rgb(188, 174, 204); text-decoration: none;}
+#true-footer a:visited {color: rgb(204, 174, 174); text-decoration: none;}
 
 #list-of-articles li a {
   font-family: "Merriweather", serif;
@@ -238,7 +238,7 @@ nav>ul>li>a:visited {color: rgb(255, 255, 255); text-decoration: none;}
   }
   .navlinks {
     position: fixed;
-    background: #160030;
+    background: #300000;
     height: 100vh;
     width: 100%;
     align-items: center;
@@ -278,7 +278,7 @@ nav>ul>li>a:visited {color: rgb(255, 255, 255); text-decoration: none;}
     margin-left: 15px;
   }
   #header-no-nav {
-    border-top: 8vh solid #160030;
+    border-top: 8vh solid #300000;
 
   }
   main {
