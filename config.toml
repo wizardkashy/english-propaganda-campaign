@@ -1,4 +1,4 @@
-baseURL = "https://sparkling-torrone-90ec42.netlify.app/"
+baseURL = "https://minipp.org"
 languageCode = "en-us"
-title = "seventown"
+title = "Ministry of Procrastinating People"
 disableKinds = ["taxonomy", "taxonomyTerm"]

@@ -1,17 +1,17 @@
 {
-    "short_name": "seventown",
-    "name": "seventown",
-    "description": "sev's website",
+    "short_name": "minipp",
+    "name": "Ministry of Procrastinating People",
+    "description": "MiniPP's Campaign Site",
     "icons": [
       {
-        "src": "/images/site-elements/seventownfavicon.png",
+        "src": "/images/site-elements/jordan-favicon.png",
         "type": "image/png",
-        "sizes": "480x480"
+        "sizes": "2400x2400"
       }
     ],
     "start_url": "/site-template.html",
-    "background_color": "blue",
+    "background_color": "red",
     "display": "browser",
     "scope": "/",
-    "theme_color": "blue"
+    "theme_color": "red"
   }
