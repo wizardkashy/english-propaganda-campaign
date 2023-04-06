@@ -1,29 +1,12 @@
 ---
-title: "hOmEpAgE"
+title: "MiniPP - Homepage"
 date: 2020-07-13T16:08:45-07:00
 ---
-# seventown
-## interesting home page :o
+# Ministry of Procrastinating People
 
-howdy there ol' pardner, i see you just happened to stumble across my part of town.
+## "Don't be a fool, be at school."
 
-the **seventown**
 
-please enjoy your stay.
-aaasdfasdfasfdeasdasdfasdf
-
-abcdefg hijklmnop qrstuv wxyz
-
-abcdefg hijklmnop qrstuv wxyz
-
-abcdefg hijklmnop qrstuv wxyz
-
-abcdefg hijklmnop qrstuv wxyz
-
-abcdefg hijklmnop qrstuv wxyz
-
-abcdefg hijklmnop qrstuv wxyz
-i agree
 
 
 
