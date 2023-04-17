@@ -4,7 +4,6 @@ title = "Importance of Studying Hard"
 type = "article"
 draft = false
 +++
-# Importance of Studying Hard
 ## Chinmay Naveen
 
 Studying hard in high school is crucial for success in college and beyond. High school is a critical period where students learn the fundamental concepts and skills that will serve as a foundation for their future academic and professional endeavors.

@@ -4,7 +4,6 @@ title = "MiniPP Demands Diligent Commitment to Education"
 type = "article"
 draft = false
 +++
-# MiniPP Demands Diligent Commitment to Education
 ## Ishan Kar
 As a senior, it is crucial to maintain a diligent commitment to your education until the very end. MiniPP (Ministry of Propaganda and Public Enlightenment) warns against the dangerous thoughtcrime of "senioritis," which can lead to a lack of motivation towards academic endeavors. This mental degeneracy must be rooted out from the mind, and the use of new speak terms such as "diligence," "commitment," and "success" are essential to keep the individual's mind focused on MiniPP's agenda.
 
